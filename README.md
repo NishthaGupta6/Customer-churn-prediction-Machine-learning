@@ -4,20 +4,20 @@ The workflow includes data preprocessing, exploratory data analysis and feature 
 Classification models such as Logistic regression and Random Forest were implemented and evaluated using performance metrics to compare their predictive capabilities.
 The project demonstrates the application of machine learning techniques to support data-driven customer retention strategies.
 
-#Problem statement
+# Problem statement
 Can we accurately predict which customers are at risk of churning based on their demographic, behavioral and engagement characterstics? Early identification of such customers can help the business reduce revenue loss and improve customer retention strategies
 
-#Tech Stack
+# Tech Stack
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
 
-#Key findings:
-The model achieved(Confusion metrics results):
+# Key findings
+Confusion metrics results:
  True negatives: 940, 
  False positives: 1, 
  False Negatives: 36, 
  True Positives: 149
 
-(Performance metrics results)-
+Performance metrics results:
 Accuracy ~ 96.7% , 
 Precision ~ 99.3% , 
 Recall ~ 80.5% , 
