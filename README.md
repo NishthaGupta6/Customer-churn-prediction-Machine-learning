@@ -6,13 +6,13 @@ The project demonstrates the application of machine learning techniques to suppo
 
 #Key findings:
 The model achieved:
-1- True negatives: 940
-2- False positives: 1
-3- False Negatives: 36
+1- True negatives: 940, 
+2- False positives: 1, 
+3- False Negatives: 36, 
 4- True Positives: 149
 
 From this-
-Accuracy ~ 96.7%
-Precision ~ 99.3%
-Recall ~ 80.5%
-F1 score ~ 88.9%
+Accuracy ~ 96.7% , 
+Precision ~ 99.3% , 
+Recall ~ 80.5% , 
+F1 score ~ 88.9% 
